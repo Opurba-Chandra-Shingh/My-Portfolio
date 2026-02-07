@@ -112,3 +112,46 @@ nav .menu a{
     color: #FD6E0A;
     cursor: pointer;
 }
+
+
+
+
+.about .about-content{
+    background-color: #FFF8F3;
+    width: 71.25%;
+    max-width: 1140px;
+    margin: 130px auto 0;
+    padding: 131px 157px;
+}
+.about .about-content h3{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.about .about-content p{
+    text-align: center;
+    font-size: 18px;
+    color: #757575;
+    line-height: 30px;
+    margin-top: 30px;
+}
+.about-info{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: #757575;
+    font-size: 20;
+    margin-top: 30px;
+}
+
+.about-data{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: #474747;
+    font-size: 20px;
+    font-weight: bold;
+}
+
